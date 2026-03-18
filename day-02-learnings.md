@@ -1,4 +1,4 @@
-# Day 2: Taming the LLM - JSON Parsing and Prompting 🛠️
+# Day 2: Controlling LLM Responses and Enforcing JSON
 
 **Date:** March 18, 2026
 
