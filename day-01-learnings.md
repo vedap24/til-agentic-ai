@@ -17,5 +17,5 @@
 4. **AI Tokenization & DSA (HashMaps):**
    LLMs process text by breaking it down into 'tokens' and frequently rely on frequency counting. I bridged this AI concept with Data Structures and Algorithms by solving **LeetCode 242 (Valid Anagram)** using HashMaps (Dictionaries in Python). This O(n) time complexity approach mirrors how token frequency distributions are mapped in natural language processing.
 
-## 💡 Lightbulb Moment
+## 🎯 Key Takeaway
 Writing code is only 20% of the job; setting up a secure, isolated, and scalable environment is the other 80%. Building a robust foundation today ensures that as I scale to complex multi-agent systems, I won't be blocked by security leaks or dependency hell.
