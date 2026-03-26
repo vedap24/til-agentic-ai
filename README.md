@@ -13,7 +13,7 @@ A daily journal documenting my 60-day journey into AI Engineering, LLMs, and Mul
 | **Day 5** | [Basic RAG & Binary Search Algorithms](./day-05-learnings.md) |
 | **Day 6** | [Advanced RAG (Embeddings) & Linked Lists](./day-06-learnings.md) |
 | **Day 7** | [Agentic RAG & Tree Data Structures](./day-07-learnings.md) |
-
+| **Day 8** | [AI Web Interfaces & Queue Data Structures](./day-08-learnings.md) |
 
 ## Experimental Projects
 
